@@ -43,7 +43,7 @@ Untuk menjalankan proyek ini di ESP32 Anda, ikuti langkah-langkah berikut:
 
 1.  **Clone Repositori**
     ```bash
-    git clone [https://github.com/NAMA_USER_ANDA/NAMA_REPO_ANDA.git](https://github.com/NAMA_USER_ANDA/NAMA_REPO_ANDA.git)
+    git clone [https://github.com/youngIcom/sistem_monitoring_kontrol.git)
     ```
 
 2.  **Buka di Arduino IDE**
